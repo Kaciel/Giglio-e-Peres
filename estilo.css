@@ -25,6 +25,20 @@ body {
     text-decoration: none;
 }
 
+#direita {
+    display: block;
+    width: 50%;
+    align: right;
+}
+
+#esquerda {
+    display: block;
+    width: 50%;
+    align: left;
+}
+
+
+
 nav {
     
     padding: 40px;
