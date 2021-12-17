@@ -11,11 +11,12 @@ body {
     font-weight: bolder;
     color: #ffffff;
     text-align: right;
+    margin: 30px;
     
 }
 
 nav {
-    margin: 30px;
+    
     color: white;
 }
 
