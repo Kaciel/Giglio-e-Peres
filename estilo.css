@@ -19,6 +19,12 @@ body {
     display: block;
 }
 
+#footer {
+    text-align: center;
+    padding-top: 45px;
+    text-decoration: none;
+}
+
 nav {
     
     padding: 40px;
