@@ -11,7 +11,12 @@ body {
     font-weight: bolder;
     color: #ffffff;
     text-align: right;
-    
+    display: block;
+}
+
+#logo {
+    text-align: left;
+    display: block;
 }
 
 nav {
